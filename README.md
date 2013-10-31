@@ -1,0 +1,4 @@
+Mailr
+=====
+
+Node based mailer
